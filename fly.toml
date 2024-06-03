@@ -1,0 +1,7 @@
+app = 'suinfra-cli'
+primary_region = 'nrt'
+
+[[vm]]
+  memory = '2gb'
+  cpu_kind = 'shared'
+  cpus = 2
